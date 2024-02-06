@@ -1,0 +1,16 @@
+.pagination{
+    display: flex;
+    gap: 25px;
+    margin: 25px 0;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.pagination button{
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.error{
+    margin-top: 45px;
+}
